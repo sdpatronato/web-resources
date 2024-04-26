@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'NaNa Pro';
+    src: url('NaNaPro-Italic.eot');
+    src: local('NaNa Pro Italic'), local('NaNaPro-Italic'),
+        url('NaNaPro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('NaNaPro-Italic.woff2') format('woff2'),
+        url('NaNaPro-Italic.woff') format('woff'),
+        url('NaNaPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NaNa Pro';
+    src: url('NaNaPro-Thin.eot');
+    src: local('NaNa Pro Thin'), local('NaNaPro-Thin'),
+        url('NaNaPro-Thin.eot?#iefix') format('embedded-opentype'),
+        url('NaNaPro-Thin.woff2') format('woff2'),
+        url('NaNaPro-Thin.woff') format('woff'),
+        url('NaNaPro-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NaNa Pro';
+    src: url('NaNaPro-Bold.eot');
+    src: local('NaNa Pro Bold'), local('NaNaPro-Bold'),
+        url('NaNaPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('NaNaPro-Bold.woff2') format('woff2'),
+        url('NaNaPro-Bold.woff') format('woff'),
+        url('NaNaPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NaNa Pro';
+    src: url('NaNaPro-DemiBold.eot');
+    src: local('NaNa Pro DemiBold'), local('NaNaPro-DemiBold'),
+        url('NaNaPro-DemiBold.eot?#iefix') format('embedded-opentype'),
+        url('NaNaPro-DemiBold.woff2') format('woff2'),
+        url('NaNaPro-DemiBold.woff') format('woff'),
+        url('NaNaPro-DemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NaNa Pro';
+    src: url('NaNaPro-ThinItalic.eot');
+    src: local('NaNa Pro Thin Italic'), local('NaNaPro-ThinItalic'),
+        url('NaNaPro-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('NaNaPro-ThinItalic.woff2') format('woff2'),
+        url('NaNaPro-ThinItalic.woff') format('woff'),
+        url('NaNaPro-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NaNa Pro';
+    src: url('NaNaPro-DemiBoldItalic.eot');
+    src: local('NaNa Pro DemiBold Italic'), local('NaNaPro-DemiBoldItalic'),
+        url('NaNaPro-DemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('NaNaPro-DemiBoldItalic.woff2') format('woff2'),
+        url('NaNaPro-DemiBoldItalic.woff') format('woff'),
+        url('NaNaPro-DemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NaNa Pro';
+    src: url('NaNaPro-BoldItalic.eot');
+    src: local('NaNa Pro Bold Italic'), local('NaNaPro-BoldItalic'),
+        url('NaNaPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('NaNaPro-BoldItalic.woff2') format('woff2'),
+        url('NaNaPro-BoldItalic.woff') format('woff'),
+        url('NaNaPro-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NaNa Pro';
+    src: url('NaNaPro-Light.eot');
+    src: local('NaNa Pro Light'), local('NaNaPro-Light'),
+        url('NaNaPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('NaNaPro-Light.woff2') format('woff2'),
+        url('NaNaPro-Light.woff') format('woff'),
+        url('NaNaPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NaNa Pro';
+    src: url('NaNaPro-Regular.eot');
+    src: local('NaNa Pro Regular'), local('NaNaPro-Regular'),
+        url('NaNaPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('NaNaPro-Regular.woff2') format('woff2'),
+        url('NaNaPro-Regular.woff') format('woff'),
+        url('NaNaPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NaNa Pro';
+    src: url('NaNaPro-LightItalic.eot');
+    src: local('NaNa Pro Light Italic'), local('NaNaPro-LightItalic'),
+        url('NaNaPro-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('NaNaPro-LightItalic.woff2') format('woff2'),
+        url('NaNaPro-LightItalic.woff') format('woff'),
+        url('NaNaPro-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
